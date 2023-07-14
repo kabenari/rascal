@@ -1,0 +1,189 @@
+body{
+    background-color: rgb(190, 236, 236);
+    text-align: center;
+    font-family:'Merriweather', serif;
+
+}
+h3{
+
+    color: #080a0a;
+    font-family: 'Montserrat', sans-serif;
+}
+.oe{
+    position: relative;
+    top: 50px;
+}
+
+.oe2{
+    position: relative;
+    top: 50px;
+}
+.skill-row{
+    text-align: left;
+    margin: 100px auto 100px auto;
+}
+.Touch{
+    position: relative;
+    left: 170px;
+}
+.playing{
+    position: relative;
+    left: 170px;
+}
+
+
+
+
+a{
+    color: #010202;
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+  }
+
+hr{
+    border: dotted #000000 6px ;
+    border-bottom: none;
+    width: 4%;
+    margin: 40px auto;
+}
+.bottom-container{
+    padding-top: 30px;
+    padding-bottom: 10px;
+    background-color: #90c2c5;
+}
+.contact{
+    text-align: center;
+
+}
+.contact{
+    padding-top: 20px;
+}
+
+.royale{
+    height: 300px;
+    width: 350px;
+    float: right;
+    padding-top: 40px;
+    position: relative;
+    bottom: 60px;
+}
+
+.code-img{
+    height: 300px;
+    width: 350px;
+    float: left;
+    padding-bottom: 90px;
+    position: relative;
+    bottom: 100px;
+}
+
+
+.top{
+    background-color: #90c2c5;
+    position: relative;
+    padding-top: 100px;
+}
+.top-cloud{
+    position: relative;
+    right: 200px;
+    bottom: 40px;
+}
+.name{
+    font-size: 3rem;
+}
+
+.header{
+    position: relative;
+    bottom: 40px;
+    font-family:'Sacramento', cursive;
+    font-size: large;
+    margin: 50px auto 0 auto;
+}
+
+.mid-cloud{
+    position: relative;
+    bottom: 500px;
+}
+.mount{
+    position: relative;
+    right: 50px;
+}
+
+.h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5rem;
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+
+.zen{
+    height: 200px;
+    width: 300px;
+}
+
+.btn {
+    background: #d934d9;
+    background-image: -webkit-linear-gradient(top, #d934d9, #402bb8);
+    background-image: -moz-linear-gradient(top, #d934d9, #402bb8);
+    background-image: -ms-linear-gradient(top, #d934d9, #402bb8);
+    background-image: -o-linear-gradient(top, #d934d9, #402bb8);
+    background-image: linear-gradient(to bottom, #d934d9, #402bb8);
+    -webkit-border-radius: 27;
+    -moz-border-radius: 27;
+    border-radius: 27px;
+    font-family: Courier New;
+    color: #ffffff;
+    font-size: 19px;
+    padding: 8px 20px 10px 20px;
+    text-decoration: none;
+    position: relative;
+    bottom: 30px;
+  }
+  
+  .btn:hover {
+    background: #fc3cef;
+    background-image: -webkit-linear-gradient(top, #fc3cef, #8f34d9);
+    background-image: -moz-linear-gradient(top, #fc3cef, #8f34d9);
+    background-image: -ms-linear-gradient(top, #fc3cef, #8f34d9);
+    background-image: -o-linear-gradient(top, #fc3cef, #8f34d9);
+    background-image: linear-gradient(to bottom, #fc3cef, #8f34d9);
+    text-decoration: none;
+  }
+
+
+  .btn {
+    background: #ffffff;
+    background-image: -webkit-linear-gradient(top, #ffffff, #000000);
+    background-image: -moz-linear-gradient(top, #ffffff, #000000);
+    background-image: -ms-linear-gradient(top, #ffffff, #000000);
+    background-image: -o-linear-gradient(top, #ffffff, #000000);
+    background-image: linear-gradient(to bottom, #ffffff, #000000);
+    -webkit-border-radius: 60;
+    -moz-border-radius: 60;
+    border-radius: 60px;
+    -webkit-box-shadow: 0px 4px 9px #666666;
+    -moz-box-shadow: 0px 4px 9px #666666;
+    box-shadow: 0px 4px 9px #666666;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 6px 14px 7px 18px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #000000;
+    background-image: -webkit-linear-gradient(top, #000000, #d93470);
+    background-image: -moz-linear-gradient(top, #000000, #d93470);
+    background-image: -ms-linear-gradient(top, #000000, #d93470);
+    background-image: -o-linear-gradient(top, #000000, #d93470);
+    background-image: linear-gradient(to bottom, #000000, #d93470);
+    text-decoration: none;
+  }
+
+.contact-message {
+
+    width: 40%;
+    margin: 40px auto 60px;
+}
